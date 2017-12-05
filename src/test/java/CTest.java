@@ -7,6 +7,6 @@ public class CTest {
 
     @Test
     public void Try()
-    {assertTrue(true);}
+    {assertTrue(false);}
 
 }
