@@ -9,7 +9,7 @@ public class CTest {
     @Test
     public void Try()
     {
-        int n = 9;
+        int n = 5;
         assertEquals(7,n);
     }
 
