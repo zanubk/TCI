@@ -10,7 +10,7 @@ public class CTest {
     public void Try()
     {
         int n = 2;
-        assertEquals(2,n);
+        assertEquals(4,n);
     }
 
 }
